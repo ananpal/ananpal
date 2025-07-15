@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anand (@ananpal)
-- 👀 I’m interested in c++ related projects
-- 🌱 I’m currently learning blockchain
+- 👀 I’m interested in LLM projects
+- 🌱 I’m currently learning AI
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
